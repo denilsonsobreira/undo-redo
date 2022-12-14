@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import './App.css'
-import { Circle } from './components/circle/Index'
 
 interface ClickedProps {
   clientX: number
